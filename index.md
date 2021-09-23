@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Branching](https://volodichev.com/wp-content/uploads/2018/06/ava-300x300.png)
+![Branching](https://img1.teletype.in/files/04/4c/044cbc19-7e82-4b25-acd4-f568795186a4.jpeg)
 
 # Привет, я Александр Володичев
 
