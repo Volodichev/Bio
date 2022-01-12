@@ -6,7 +6,7 @@
 
 
 
-![face](https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png#center)
+[<img align="center" alt="volodichev.com" width="400px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" />][website]
 
 
 # I'm python developer <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
