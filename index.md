@@ -40,7 +40,7 @@ https://t.me/proxy4parsing - канал с бесплатными прокси. 
 
 https://github.com/Volodichev/proxy-list - репозитроий с бесплатными прокси из нескольких источников
 
-https://api.2ip.site - api с множеством функций
+https://api.2ip.site - api с [множеством функций][api_docs]
 
 https://github.com/Volodichev/sort_files — Написал алгоритм сортировки фотографий и видеофайлов на основе библиотек для чтения exif. Решил проблему произвольного перемешивания медиафайлов при переносе с ios на пк.
 
@@ -83,6 +83,7 @@ Sep 2010—May 2013<br/>
 [instagram]: https://instagram.com/volodichev
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
+[api_docs]: https://blog.volodichev.com/api
 
 <br/>
 
