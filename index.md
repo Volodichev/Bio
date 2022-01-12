@@ -1,9 +1,11 @@
+[RU][ru_page]
+
 
 # Hi, my name is Alexander Volodichev 👋 
 
 
+![face](https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png#center)
 
-<img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" width="250" />
 
 # I'm python developer <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
 
@@ -84,6 +86,7 @@ Sep 2010—May 2013<br/>
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
 [api_docs]: https://blog.volodichev.com/api
+[ru_page]: /index_ru
 
 <br/>
 
