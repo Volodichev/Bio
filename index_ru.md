@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" width="250" />
 
-# и я пишу на python <img align="left" alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
+# и я пишу на python <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />  
 
 [<img align="left" alt="volodichev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="volodichev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
