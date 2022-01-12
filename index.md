@@ -1,7 +1,9 @@
 
 
 
-# Hi, my name is Alexander Volodichev 👋  ![RU](https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png)[ru_page]
+
+# Hi, my name is Alexander Volodichev 👋 [<img align="right" alt="ru" width="26px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" />][ru_page]
+
 
 
 ![face](https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png#center)
