@@ -1,42 +1,11 @@
 
-# Hi, my name is Alexander Volodichev 👋 
+# Привет, я Александр Володичев👋 
 
 
 
 <img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" width="250" />
 
-
-
-
-### <img align="left" alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> python developer
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# и я пишу на python <img align="left" alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
 
 [<img align="left" alt="volodichev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="volodichev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -46,18 +15,20 @@
 [<img align="left" alt="volodichev | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="volodichev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
-<br />
+<br/>
+
+
+- 🐍 I’m always learning python 🤣
+- ❤ Interesting tezis
+- 🎯 fun fact
+- 👯 I’m looking to collaborate with other creators and companies
+
+
+<br/>
 ---
 
 
-
-![James Singleton's github stats](https://github-readme-stats.vercel.app/api?username=Volodichev&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodichev&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
-
-
-
-
-Проекты:
+#### Projects:
 
 https://t.me/neberitrubkubot - бот определитель номера
 
@@ -71,40 +42,37 @@ https://github.com/Volodichev/proxy-list - репозитроий с беспл�
 
 https://api.2ip.site - api с множеством функций
 
+https://github.com/Volodichev/sort_files — Написал алгоритм сортировки фотографий и видеофайлов на основе библиотек для чтения exif. Решил проблему произвольного перемешивания медиафайлов при переносе с ios на пк.
 
-— Написал алгоритм сортировки фотографий и видеофайлов на основе библиотек для чтения exif. Решил проблему произвольного перемешивания медиафайлов при переносе с ios на пк.
-GIT(https://github.com/Volodichev/sort_files)
 
-позже:
+~~https://t.me/distpy- канал с python вакансиями~~
 
-https://t.me/distpy- канал с python вакансиями
+~~https://t.me/awmproxybot - бот с бесплатными прокси~~
 
-https://t.me/awmproxybot - бот с бесплатными прокси
-
-https://t.me/domofobot - бот с кодами от домофона
+~~https://t.me/domofobot - бот с кодами от домофона~~
 
 
 ===================
 
-Freelancer
-volodichev.com
-Mar 2017—Present #по настоящее время
+**Разное**<br/>
+_volodichev.com<br/>_
+Mar 2017—Present 
 
-Developer 1C
-MKSCOM, Moscow МКСКОМ, Москва
-Sep 2015—Mar 2017
+**Программист 1C**<br/>
+_MKSCOM, Moscow<br/>_
+Sep 2015—Mar 2017<br/>
 
-Developer 1C
-Orticon GK, Mosow Oртикoн ГК, Москва
-Nov 2013—Sep 2015
+**Программист 1C**<br/>
+_Orticon GK, Mosow<br/>_
+Nov 2013—Sep 2015<br/>
 
-Developer 1C
-Intaris, Moscow/Tula ООО «Интapиc», Москва/Тула
-May 2013—Nov 2013
+**Программист 1C**<br/>
+_Intaris, Moscow/Tula<br/>_
+May 2013—Nov 2013<br/>
 
-Content Manager
-Baykal2, Moscow ООО «Байкал-2», Москва
-Sep 2010—May 2013
+**Контент менеджер**<br/>
+_Baykal2, Moscow<br/>_
+Sep 2010—May 2013<br/>
 
 
 [website]: https://volodichev.com
@@ -115,7 +83,10 @@ Sep 2010—May 2013
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<br/>
+
+![James Singleton's github stats](https://github-readme-stats.vercel.app/api?username=Volodichev&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodichev&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
+
+
+
