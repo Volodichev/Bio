@@ -1,7 +1,5 @@
 
 
-
-
 # Hi, my name is Alexander Volodichev 👋 [<img align="right" alt="ru" width="26px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" />][ru_page]
 
 
@@ -19,6 +17,8 @@
 [<img align="left" alt="volodichev | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="volodichev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
+
+
 <br/>
 
 
@@ -29,10 +29,11 @@
 
 
 <br/>
+
+
+
+Projects:
 ---
-
-
-#### Projects:
 
 https://t.me/neberitrubkubot - бот определитель номера
 
@@ -48,6 +49,8 @@ https://api.2ip.site - api с [множеством функций][api_docs]
 
 https://github.com/Volodichev/sort_files — Написал алгоритм сортировки фотографий и видеофайлов на основе библиотек для чтения exif. Решил проблему произвольного перемешивания медиафайлов при переносе с ios на пк.
 
+---
+
 
 
 ~~https://t.me/distpy- канал с python вакансиями~~
@@ -57,7 +60,7 @@ https://github.com/Volodichev/sort_files — Написал алгоритм с�
 ~~https://t.me/domofobot - бот с кодами от домофона~~
 
 
-===================
+---
 
 **Freelancer**<br/>
 _volodichev.com<br/>_
