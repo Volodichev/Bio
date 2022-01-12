@@ -1,7 +1,7 @@
-[RU][ru_page]
 
 
-# Hi, my name is Alexander Volodichev 👋 
+
+# Hi, my name is Alexander Volodichev 👋  ![RU](https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png)[ru_page]
 
 
 ![face](https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png#center)
@@ -20,8 +20,8 @@
 <br/>
 
 
-- 🐍 I’m always learning python 🤣
-- ❤ Interesting tezis
+- 🔭 I’m currently working on api.2ip.site 
+- 🌱 I’m currently learning pytest
 - 🎯 fun fact
 - 👯 I’m looking to collaborate with other creators and companies
 
