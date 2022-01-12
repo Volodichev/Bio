@@ -1,57 +1,10 @@
-
-# Hi, my name is Alexander Volodichev 👋 
-
-
-
-
-<center><img src="https://raw.githubusercontent.com/JamesSingleton/JamesSingleton/master/assets/avatar.png" width="250" /></center>
-
-
-
-
-### <img align="left" alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> python developer
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[<img align="left" alt="volodichev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="volodichev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="volodichev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="volodichev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="volodichev | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="volodichev | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="volodichev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
-
-<br />
 ---
--python developer-
-
+layout: default
 ---
-python developer
 
+
+
+# Привет, я Александр Володичев
 
 Проекты:
 
@@ -150,27 +103,68 @@ Oртикoн, Группа компаний
 — Ведение и наполнение сайта компании
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JamesSingleton/JamesSingleton/master/assets/avatar.png" width="250" />
+  <h1 align="center">
+    James Singleton
+  </h1>
+</p>
+
+## What I Do
+
+I am currently a Senior Software Engineer at Zendesk!
+
+## Technology I Use
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
+          <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://devdocs.io/css/" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3 Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/react.svg" alt="React Logo" /></a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+          <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg" alt="Next.js Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg" alt="ESLint Logo" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git Logo" /></a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSCode Logo"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
+## How to reach me
 
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jamesrsingleton)
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Design__Pattern)
 
+![James Singleton's github stats](https://github-readme-stats.vercel.app/api?username=JamesSingleton&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesSingleton&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
 
-
-
-
-![James Singleton's github stats](https://github-readme-stats.vercel.app/api?username=Volodichev&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodichev&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
-
-
-[website]: https://volodichev.com
-[linkedin]: https://linkedin.com/in/volodichev
-[github]: http://github.com/volodichev
-[youtube]: https://youtube.com/mrVolodichev
-[instagram]: https://instagram.com/volodichev
-[vk]: https://vk.com/volodichevcom
-[tg]: https://t.me/volodichev
-
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
