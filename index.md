@@ -37,7 +37,6 @@ Projects:
 - 📷 https://github.com/Volodichev/sort_files — photo and video sort by exif. Solve ios+PC bug
 
 
-
 ---
 
 **Freelancer**<br/>
