@@ -34,19 +34,19 @@
 
 Projects:
 ---
-- https://api.2ip.site — API with [different functions][api_docs]
+- 🧩 https://api.2ip.site — API with [different functions][api_docs]
 
-- https://t.me/neberitrubkubot — bot phone checker
+- 📞 https://t.me/neberitrubkubot — bot phone checker
 
-- https://t.me/perenos_bot — bot with instagram text indents
+- 📷 https://t.me/perenos_bot — bot with instagram text indents
 
-- https://t.me/textorobot — bot synonims
+- 📔 https://t.me/textorobot — bot synonims
 
-- https://t.me/proxy4parsing — free proxy channels. Every 20 min
+- 💻 https://t.me/proxy4parsing — free proxy channels. Every 20 min
 
-- https://github.com/Volodichev/proxy-list — ptoxy github repo
+- 💻 https://github.com/Volodichev/proxy-list — ptoxy github repo
 
-- https://github.com/Volodichev/sort_files — photo and video sort by exif. Solve ios+PC bug
+- 📷 https://github.com/Volodichev/sort_files — photo and video sort by exif. Solve ios+PC bug
 
 
 
