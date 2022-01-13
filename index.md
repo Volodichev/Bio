@@ -16,7 +16,6 @@
 
 - 🔭 I’m currently working on api.2ip.site 
 - 🌱 I’m currently learning pytest
-- 🎯 fun fact
 - 👯 I’m looking to collaborate with other creators and companies
 
 <br/>
