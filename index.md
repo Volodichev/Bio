@@ -1,11 +1,6 @@
-
-
 # Hi, my name is Alexander Volodichev 👋 [<img align="right" alt="ru" width="26px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" />][ru_page]
 
-
-
 [<img align="center" alt="volodichev.com" width="400px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" />][website]
-
 
 # I'm python developer <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
 
@@ -17,20 +12,14 @@
 [<img align="left" alt="volodichev | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="volodichev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 
-
-
 <br/>
-
 
 - 🔭 I’m currently working on api.2ip.site 
 - 🌱 I’m currently learning pytest
 - 🎯 fun fact
 - 👯 I’m looking to collaborate with other creators and companies
 
-
 <br/>
-
-
 
 Projects:
 ---
@@ -44,7 +33,7 @@ Projects:
 
 - 💻 https://t.me/proxy4parsing — free proxy channels. Every 20 min
 
-- 💻 https://github.com/Volodichev/proxy-list — ptoxy github repo
+- 💻 https://github.com/Volodichev/proxy-list — proxy github repo
 
 - 📷 https://github.com/Volodichev/sort_files — photo and video sort by exif. Solve ios+PC bug
 
