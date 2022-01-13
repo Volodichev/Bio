@@ -1,9 +1,7 @@
 
 # Привет, я Александр Володичев👋 
 
-
-
-<img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" width="250" />
+[<img align="center" alt="volodichev.com" width="400px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" />][website]
 
 # и я пишу на python <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />  
 

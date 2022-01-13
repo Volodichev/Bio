@@ -34,21 +34,19 @@
 
 Projects:
 ---
-- [ ] https://api.2ip.site - api с [множеством функций][api_docs]
+- https://api.2ip.site — API with [different functions][api_docs]
 
-- [ ] https://t.me/neberitrubkubot - бот определитель номера
+- https://t.me/neberitrubkubot — bot phone checker
 
-- [ ] https://t.me/perenos_bot - бот переносов для instagram
+- https://t.me/perenos_bot — bot with instagram text indents
 
-- [ ] https://t.me/textorobot - бот синонимайзер
+- https://t.me/textorobot — bot synonims
 
-- [ ] https://t.me/proxy4parsing - канал с бесплатными прокси. Новые каждые 20 минут
+- https://t.me/proxy4parsing — free proxy channels. Every 20 min
 
-- [ ] https://github.com/Volodichev/proxy-list - репозитроий с бесплатными прокси из нескольких источников
+- https://github.com/Volodichev/proxy-list — ptoxy github repo
 
-- [ ] https://github.com/Volodichev/sort_files — Написал алгоритм сортировки фотографий и видеофайлов на основе библиотек для чтения exif. Решил проблему произвольного перемешивания медиафайлов при переносе с ios на пк.
-
-- [ ] https://t.me/distpy- канал с python вакансиями
+- https://github.com/Volodichev/sort_files — photo and video sort by exif. Solve ios+PC bug
 
 
 
