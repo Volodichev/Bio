@@ -34,30 +34,22 @@
 
 Projects:
 ---
+- [ ] https://api.2ip.site - api с [множеством функций][api_docs]
 
-https://t.me/neberitrubkubot - бот определитель номера
+- [ ] https://t.me/neberitrubkubot - бот определитель номера
 
-https://t.me/perenos_bot - бот переносов для instagram
+- [ ] https://t.me/perenos_bot - бот переносов для instagram
 
-https://t.me/textorobot - бот синонимайзер
+- [ ] https://t.me/textorobot - бот синонимайзер
 
-https://t.me/proxy4parsing - канал с бесплатными прокси. Новые каждые 20 минут
+- [ ] https://t.me/proxy4parsing - канал с бесплатными прокси. Новые каждые 20 минут
 
-https://github.com/Volodichev/proxy-list - репозитроий с бесплатными прокси из нескольких источников
+- [ ] https://github.com/Volodichev/proxy-list - репозитроий с бесплатными прокси из нескольких источников
 
-https://api.2ip.site - api с [множеством функций][api_docs]
+- [ ] https://github.com/Volodichev/sort_files — Написал алгоритм сортировки фотографий и видеофайлов на основе библиотек для чтения exif. Решил проблему произвольного перемешивания медиафайлов при переносе с ios на пк.
 
-https://github.com/Volodichev/sort_files — Написал алгоритм сортировки фотографий и видеофайлов на основе библиотек для чтения exif. Решил проблему произвольного перемешивания медиафайлов при переносе с ios на пк.
+- [ ] https://t.me/distpy- канал с python вакансиями
 
----
-
-
-
-~~https://t.me/distpy- канал с python вакансиями~~
-
-~~https://t.me/awmproxybot - бот с бесплатными прокси~~
-
-~~https://t.me/domofobot - бот с кодами от домофона~~
 
 
 ---
