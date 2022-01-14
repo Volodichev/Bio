@@ -67,7 +67,7 @@ Sep 2010—May 2013<br/>
 
 <br/>
 
-![James Singleton's github stats](https://github-readme-stats.vercel.app/api?username=Volodichev&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
+![Volodichev github stats](https://github-readme-stats.vercel.app/api?username=Volodichev&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodichev&layout=compact&bg_color=000&text_color=9f9f9f&title_color=fff)
 
 
