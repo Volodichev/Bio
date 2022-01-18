@@ -7,7 +7,7 @@
 - 🧩 https://api.2ip.site — API with [different functions][api_docs]
 
 
-[api_docs]: https://blog.volodichev.com/api
+[api_docs]: https://volodichev.com/api
 
 
 https://api.2ip.site/proxy
