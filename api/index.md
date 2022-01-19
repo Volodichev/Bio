@@ -17,10 +17,12 @@
 ## /text
 > сервис для работы с текстом
 
+
 #### type:synonim
 > "синонимизирует" тексты c pymorphy2 и базой синонимов больше 6000 слов
 
     https://api.2ip.site/text?type=synonim&text='переданный текст'
+
     
 #### type:perenos
 > сервис получения специальных переносов для instagram
