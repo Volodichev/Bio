@@ -17,7 +17,7 @@
 
 Проекты:
 ---
-- ⚙ [api.2ip.site] — [API сервисы (fresh proxies, phone checker, etc.)][api_docs]
+- ⚙ api.2ip.site — [API сервисы (fresh proxies, phone checker, etc.)][api_docs]
 
 - 📞 [t.me/neberitrubkubot][neberitrubkubot] — бот определитель номера
 
@@ -67,7 +67,6 @@ Sep 2010—May 2013<br/>
 [tg]: https://t.me/volodichev
 [api_docs]: https://i.volodichev.com/api
 
-[api.2ip.site]:[https://api.2ip.site]
 [neberitrubkubot]: https://t.me/neberitrubkubot
 [perenos_bot]: https://t.me/perenos_bot
 [github_perenos_bot]: http://github.com/volodichev

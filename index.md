@@ -23,7 +23,7 @@
 
 Projects:
 ---
-- ⚙ [api.2ip.site] — [API servises (fresh proxies, phone checker, etc.)][api_docs]
+- ⚙ api.2ip.site — [API servises (fresh proxies, phone checker, etc.)][api_docs]
 
 - 📞 [t.me/neberitrubkubot][neberitrubkubot] — bot phone checker
 
@@ -75,7 +75,6 @@ Sep 2010—May 2013<br/>
 [ru_page]: /index_ru
 
 [github_perenos_bot]: http://github.com/volodichev
-[api.2ip.site]:[https://api.2ip.site]
 [neberitrubkubot]: https://t.me/neberitrubkubot
 [perenos_bot]: https://t.me/perenos_bot
 [textorobot]: https://t.me/textorobot
