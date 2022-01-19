@@ -28,7 +28,7 @@ Projects:
 - 📞 https://t.me/neberitrubkubot — bot phone checker
 
 - 📷 https://t.me/perenos_bot — bot with instagram text indents 
-[<img align="left" alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
+[<img alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
 
 - 📔 https://t.me/textorobot — bot synonims
 
