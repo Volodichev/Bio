@@ -70,7 +70,7 @@ Sep 2010—May 2013<br/>
 [instagram]: https://instagram.com/volodichev
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
-[api_docs]: https://volodichev.com/api
+[api_docs]: https://i.volodichev.com/api
 [ru_page]: /index_ru
 
 [github_perenos_bot]: http://github.com/volodichev
