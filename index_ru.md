@@ -17,24 +17,24 @@
 
 Проекты:
 ---
+- ⚙ [api.2ip.site] — [API сервисы (fresh proxies, phone checker, etc.)][api_docs]
 
-- 🧩 https://api.2ip.site - api с [множеством функций][api_docs]
+- 📞 [t.me/neberitrubkubot][neberitrubkubot] — бот определитель номера
 
-- 📞 https://t.me/neberitrubkubot - бот определитель номера
+- 📷 [t.me/perenos_bot][perenos_bot] — бот переносов для instagram
+[<img alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
 
-- 📷 https://t.me/perenos_bot - бот переносов для instagram
+- 📔 [t.me/textorobot][textorobot] — бот синонимайзер
 
-- 📔 https://t.me/textorobot - бот синонимайзер
+- 💻 [t.me/proxy4parsing][proxy4parsing] — канал с бесплатными прокси. Новые каждые 20 минут
 
-- 💻 https://t.me/proxy4parsing - канал с бесплатными прокси. Новые каждые 20 минут
+- 💻 [github.com//proxy-list][proxy-list] — репозитроий с бесплатными прокси из нескольких источников
 
-- 💻 https://github.com/Volodichev/proxy-list - репозитроий с бесплатными прокси из нескольких источников
-
-- 📷 https://github.com/Volodichev/sort_files — алгоритм сортировки фотографий и видеофайлов exif. 
-
+- 📷 [github.com//sort_files][sort_files] — алгоритм сортировки фотографий и видеофайлов exif. 
 
 
-===================
+
+---
 
 **Разное**<br/>
 _volodichev.com<br/>_
@@ -67,6 +67,14 @@ Sep 2010—May 2013<br/>
 [tg]: https://t.me/volodichev
 [api_docs]: https://i.volodichev.com/api
 
+[api.2ip.site]:[https://api.2ip.site]
+[neberitrubkubot]: https://t.me/neberitrubkubot
+[perenos_bot]: https://t.me/perenos_bot
+[github_perenos_bot]: http://github.com/volodichev
+[textorobot]: https://t.me/textorobot
+[proxy4parsing]: https://t.me/proxy4parsing 
+[proxy-list]: https://github.com/Volodichev/proxy-list
+[sort_files]: https://github.com/Volodichev/sort_files
 <br/>
 
 ![Volodichev github stats](https://github-readme-stats.vercel.app/api?username=Volodichev&show_icons=true&title_color=fff&icon_color=6B8E23&text_color=9f9f9f&bg_color=000)

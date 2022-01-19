@@ -23,20 +23,20 @@
 
 Projects:
 ---
-- 🧩 https://api.2ip.site — API with [different functions][api_docs]
+- ⚙ [api.2ip.site] — [API servises (fresh proxies, phone checker, etc.)][api_docs]
 
-- 📞 https://t.me/neberitrubkubot — bot phone checker
+- 📞 [t.me/neberitrubkubot][neberitrubkubot] — bot phone checker
 
-- 📷 https://t.me/perenos_bot — bot with instagram text indents 
+- 📷 [t.me/perenos_bot][perenos_bot] — bot with instagram text indents 
 [<img alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
 
-- 📔 https://t.me/textorobot — bot synonims
+- 📔 [t.me/textorobot][textorobot] — bot synonims
 
-- 💻 https://t.me/proxy4parsing — free proxy channels. Every 20 min
+- 💻 [t.me/proxy4parsing][proxy4parsing] — free proxy channels. Every 20 min
 
-- 💻 https://github.com/Volodichev/proxy-list — proxy github repo
+- 💻 [github.com//proxy-list][proxy-list] — proxy github repo
 
-- 📷 https://github.com/Volodichev/sort_files — photo and video sort by exif. Solve ios+PC bug
+- 📷 [github.com//sort_files][sort_files] — photo and video sort by exif. Solve ios+PC bug
 
 
 ---
@@ -74,6 +74,13 @@ Sep 2010—May 2013<br/>
 [ru_page]: /index_ru
 
 [github_perenos_bot]: http://github.com/volodichev
+[api.2ip.site]:[https://api.2ip.site]
+[neberitrubkubot]: https://t.me/neberitrubkubot
+[perenos_bot]: https://t.me/perenos_bot
+[textorobot]: https://t.me/textorobot
+[proxy4parsing]: https://t.me/proxy4parsing 
+[proxy-list]: https://github.com/Volodichev/proxy-list
+[sort_files]: https://github.com/Volodichev/sort_files
 
 <br/>
 
