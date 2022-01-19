@@ -5,6 +5,7 @@
 # I'm python developer <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
 
 [<img align="left" alt="volodichev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="bog.volodichev.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][blog]
 [<img align="left" alt="volodichev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="volodichev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="volodichev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -26,7 +27,8 @@ Projects:
 
 - 📞 https://t.me/neberitrubkubot — bot phone checker
 
-- 📷 https://t.me/perenos_bot — bot with instagram text indents
+- 📷 https://t.me/perenos_bot — bot with instagram text indents 
+[<img align="left" alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
 
 - 📔 https://t.me/textorobot — bot synonims
 
@@ -61,6 +63,7 @@ Sep 2010—May 2013<br/>
 
 
 [website]: https://volodichev.com
+[blog]: https://blog.volodichev.com
 [linkedin]: https://linkedin.com/in/volodichev
 [github]: http://github.com/volodichev
 [youtube]: https://youtube.com/mrVolodichev
@@ -69,6 +72,8 @@ Sep 2010—May 2013<br/>
 [tg]: https://t.me/volodichev
 [api_docs]: https://volodichev.com/api
 [ru_page]: /index_ru
+
+[github_perenos_bot]: http://github.com/volodichev
 
 <br/>
 
