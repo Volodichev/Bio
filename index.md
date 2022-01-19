@@ -62,6 +62,7 @@ _Baykal2, Moscow<br/>_
 Sep 2010—May 2013<br/>
 
 
+
 [website]: https://volodichev.com
 [blog]: https://blog.volodichev.com
 [linkedin]: https://linkedin.com/in/volodichev
