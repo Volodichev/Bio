@@ -25,12 +25,14 @@ Projects:
 ---
 - ⚙ api.2ip.site — [API servises (fresh proxies, phone checker, etc.)][api_docs]
 
+- 💬 [t.me/vsspambot][vsspambot] — bot moderator for chats
+
 - 📞 [t.me/neberitrubkubot][neberitrubkubot] — bot phone checker
 
 - 📷 [t.me/perenos_bot][perenos_bot] — bot with instagram text indents 
 [<img alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
 
-- 📔 [t.me/textorobot][textorobot] — bot synonims
+- 📔 [t.me/textorobot][textorobot] — bot synonims(stoped)
 
 - 💻 [t.me/proxy4parsing][proxy4parsing] — free proxy channels. Every 20 min
 
@@ -75,6 +77,7 @@ Sep 2010—May 2013<br/>
 [ru_page]: /index_ru
 
 [github_perenos_bot]: http://github.com/volodichev
+[vsspambot]: https://t.me/vsspambot
 [neberitrubkubot]: https://t.me/neberitrubkubot
 [perenos_bot]: https://t.me/perenos_bot
 [textorobot]: https://t.me/textorobot
