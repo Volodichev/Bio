@@ -56,7 +56,7 @@ Projects:
 <small>_1c Intaris, Msk 2013 — 2013_</small><br/>
 
 **Content Manager**<br/>
-<small>_Baykal-2, Msk 2010 — 2013</small><br/>_
+<small>_Baykal-2, Msk 2010 — 2013_</small><br/>
 <br/>
 
 

@@ -50,7 +50,7 @@
 <small>_1c Intaris, Мск 2013 — 2013_</small><br/>
 
 **Контент менеджер**<br/>
-<small>_Baykal-2, Мск 2010 — 2013</small><br/>_
+<small>_Baykal-2, Мск 2010 — 2013</small>_<br/>
 <br/>
 
 
@@ -77,9 +77,3 @@
 
 
 ---
-
-Не пользовался, но собираюсь углубиться:
--[ ] Docker / Kubernetes
--[ ] FastAPI
--[ ] ElasticSearch
--[ ] MongoDB
