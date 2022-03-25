@@ -2,7 +2,7 @@
 
 [<img align="center" alt="volodichev.com" width="400px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" />][website]
 
-# и я пишу на python <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />  
+# python разработчик<img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />  
 
 [<img align="left" alt="volodichev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bog.volodichev.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][blog]
@@ -17,7 +17,6 @@
 
 Проекты:
 ---
-- ⚙ api.2ip.site — [API сервисы (fresh proxies, phone checker, etc.)][api_docs]
 
 - 💬 [t.me/vsspambot][vsspambot] — бот модератор для чатов
 
@@ -34,28 +33,25 @@
 
 - 📷 [github.com//sort_files][sort_files] — алгоритм сортировки фотографий и видеофайлов exif. 
 
+- ⚙ api.2ip.site — [API сервисы (fresh proxies, phone checker, etc.)][api_docs]
 
 ---
 
 **Разное**<br/>
-_volodichev.com<br/>_
-Mar 2017—Present 
+<small>_volodichev.com 2017 — Present_</small><br/>
 
-**Программист 1C**<br/>
-_MKSCOM, Moscow<br/>_
-Sep 2015—Mar 2017<br/>
+**Программист**<br/>
+<small>_1c MKSCOM, Мск 2015 — 2017_</small><br/>
 
-**Программист 1C**<br/>
-_Orticon GK, Mosow<br/>_
-Nov 2013—Sep 2015<br/>
+**Программист**<br/>
+<small>_1c Orticon, Мск 2013 — 2015_</small><br/>
 
-**Программист 1C**<br/>
-_Intaris, Moscow/Tula<br/>_
-May 2013—Nov 2013<br/>
+**Программист**<br/>
+<small>_1c Intaris, Мск 2013 — 2013_</small><br/>
 
 **Контент менеджер**<br/>
-_Baykal2, Moscow<br/>_
-Sep 2010—May 2013<br/>
+<small>_Baykal-2, Мск 2010 — 2013</small><br/>_
+<br/>
 
 
 
@@ -80,3 +76,10 @@ Sep 2010—May 2013<br/>
 <br/>
 
 
+---
+
+Не пользовался, но собираюсь углубиться:
+-[ ] Docker / Kubernetes
+-[ ] FastAPI
+-[ ] ElasticSearch
+-[ ] MongoDB

@@ -23,7 +23,6 @@
 
 Projects:
 ---
-- ⚙ api.2ip.site — [API servises (fresh proxies, phone checker, etc.)][api_docs]
 
 - 💬 [t.me/vsspambot][vsspambot] — bot moderator for chats
 
@@ -40,28 +39,25 @@ Projects:
 
 - 📷 [github.com//sort_files][sort_files] — photo and video sort by exif. Solve ios+PC bug
 
+- ⚙ api.2ip.site — [API servises (fresh proxies, phone checker, etc.)][api_docs]
 
 ---
 
 **Freelancer**<br/>
-_volodichev.com<br/>_
-Mar 2017—Present 
+<small>_volodichev.com 2017 — Present_</small><br/>
 
-**Developer 1C**<br/>
-_MKSCOM, Moscow<br/>_
-Sep 2015—Mar 2017<br/>
+**Developer**<br/>
+<small>_1c MKSCOM, Msk 2015 — 2017_</small><br/>
 
-**Developer 1C**<br/>
-_Orticon GK, Mosow<br/>_
-Nov 2013—Sep 2015<br/>
+**Developer**<br/>
+<small>_1c Orticon, Msk 2013 — 2015_</small><br/>
 
-**Developer 1C**<br/>
-_Intaris, Moscow/Tula<br/>_
-May 2013—Nov 2013<br/>
+**Developer**<br/>
+<small>_1c Intaris, Msk 2013 — 2013_</small><br/>
 
 **Content Manager**<br/>
-_Baykal2, Moscow<br/>_
-Sep 2010—May 2013<br/>
+<small>_Baykal-2, Msk 2010 — 2013</small><br/>_
+<br/>
 
 
 
