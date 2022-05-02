@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/media/favicon.ico">
+
 # Hi, my name is Alexander Volodichev 👋 [<img align="right" alt="ru" width="26px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" />][ru_page]
 
 [<img align="center" alt="volodichev.com" width="400px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" />][website]
