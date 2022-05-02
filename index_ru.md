@@ -10,6 +10,8 @@
 Проекты:
 ---
 
+- 💰 [t.me/kurscb][kurscb] — exchange rates channel. Every 30 min
+
 - 💬 [t.me/vsspambot][vsspambot] — бот модератор для чатов 
 
 - 📞 [t.me/neberitrubkubot][neberitrubkubot] — бот определитель номера

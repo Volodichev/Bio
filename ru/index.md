@@ -1,53 +1,50 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/media/favicon.ico">
-
-# Hi, my name is Alexander Volodichev 👋 [<img align="right" alt="ru" width="26px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" />][ru_page]
+# Привет, я Александр Володичев👋 
 
 [<img align="center" alt="volodichev.com" width="400px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" />][website]
 
-# I'm python developer <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
+# python разработчик<img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />  
 
 
 <br/>
-<br/>
 
-Projects:
+Проекты:
 ---
 
-- 💰 [t.me/kurscb][kurscb] — exchange rates channel.
+- 💰 [t.me/kurscb][kurscb] — канал с курсом валют.
 
-- 💬 [t.me/vsspambot][vsspambot] — bot moderator for chats
+- 💬 [t.me/vsspambot][vsspambot] — бот модератор для чатов 
 
-- 📞 [t.me/neberitrubkubot][neberitrubkubot] — bot phone checker
+- 📞 [t.me/neberitrubkubot][neberitrubkubot] — бот определитель номера
 
-- 📷 [t.me/perenos_bot][perenos_bot] — bot with instagram text indents 
+- 📷 [t.me/perenos_bot][perenos_bot] — бот переносов для instagram
 [<img alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
 
-- 📔 [t.me/textorobot][textorobot] — bot synonims(stoped)
+- 📔 [t.me/textorobot][textorobot] — бот синонимайзер(пока отключен)
 
-- 💻 [t.me/proxy4parsing][proxy4parsing] — free proxy channels. Every 20 min
+- 💻 [t.me/proxy4parsing][proxy4parsing] — канал с бесплатными прокси. Новые каждые 20 минут
 
-- 💻 [github.com//proxy-list][proxy-list] — proxy github repo
+- 💻 [github.com//proxy-list][proxy-list] — репозитроий с бесплатными прокси из нескольких источников
 
-- 📷 [github.com//sort_files][sort_files] — photo and video sort by exif. Solve ios+PC bug
+- 📷 [github.com//sort_files][sort_files] — алгоритм сортировки фотографий и видеофайлов exif. 
 
-- ⚙ api.2ip.site — [API servises (fresh proxies, phone checker, etc.)][api_docs]
+- ⚙ api.2ip.site — [API сервисы (fresh proxies, phone checker, etc.)][api_docs]
 
 ---
 
-**Freelancer**<br/>
+**Разное**<br/>
 <small>_volodichev.com 2017 — Present_</small><br/>
 
-**Developer**<br/>
-<small>_1c MKSCOM, Msk 2015 — 2017_</small><br/>
+**Программист**<br/>
+<small>_1c MKSCOM, Мск 2015 — 2017_</small><br/>
 
-**Developer**<br/>
-<small>_1c Orticon, Msk 2013 — 2015_</small><br/>
+**Программист**<br/>
+<small>_1c Orticon, Мск 2013 — 2015_</small><br/>
 
-**Developer**<br/>
-<small>_1c Intaris, Msk 2013 — 2013_</small><br/>
+**Программист**<br/>
+<small>_1c Intaris, Мск 2013 — 2013_</small><br/>
 
-**Content Manager**<br/>
-<small>_Baykal-2, Msk 2010 — 2013_</small><br/>
+**Контент менеджер**<br/>
+<small>_Baykal-2, Мск 2010 — 2013</small>_<br/>
 <br/>
 
 
@@ -75,17 +72,15 @@ Projects:
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
 [api_docs]: /api
-[ru_page]: /ru
 
-[github_perenos_bot]: http://github.com/volodichev
-[kurscb]: /projects/kurscb
 [vsspambot]: https://t.me/vsspambot
+[kurscb]: /projects/kurscb
 [neberitrubkubot]: https://t.me/neberitrubkubot
 [perenos_bot]: https://t.me/perenos_bot
+[github_perenos_bot]: http://github.com/volodichev
 [textorobot]: https://t.me/textorobot
 [proxy4parsing]: https://t.me/proxy4parsing 
 [proxy-list]: https://github.com/Volodichev/proxy-list
 [sort_files]: https://github.com/Volodichev/sort_files
-[fastapi-demo]: https://github.com/Volodichev/fastapi
 
 
