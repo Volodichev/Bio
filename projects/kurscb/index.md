@@ -8,7 +8,7 @@ _задача: Написать бота для канала с актуальн
 
 «Курс валют» — канал в телеграм, динамически публикующий актуальный курс валют из разных источников
 
-[<img align="center" alt="Курс валют" width="600px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/projects/kurscb/chat.png" />][kurscb_url]
+[<img align="center" alt="Курс валют" width="700px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/projects/kurscb/chat.png" />][kurscb_url]
 
 
 Источники:
@@ -20,6 +20,10 @@ _задача: Написать бота для канала с актуальн
 
 
 
+
+
+---
+2022
 
 [kurscb_url]: https://t.me/kurscb
 [cb_url]: https://cbr.ru
