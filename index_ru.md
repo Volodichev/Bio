@@ -10,7 +10,7 @@
 Проекты:
 ---
 
-- 💬 [t.me/vsspambot][vsspambot] — бот модератор для чатов
+- 💬 [t.me/vsspambot][vsspambot] — бот модератор для чатов 
 
 - 📞 [t.me/neberitrubkubot][neberitrubkubot] — бот определитель номера
 
@@ -69,7 +69,7 @@
 [instagram]: https://instagram.com/volodichev
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
-[api_docs]: https://i.volodichev.com/api
+[api_docs]: /api
 
 [vsspambot]: https://t.me/vsspambot
 [neberitrubkubot]: https://t.me/neberitrubkubot

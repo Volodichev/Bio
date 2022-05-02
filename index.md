@@ -6,11 +6,6 @@
 
 
 <br/>
-
-- 🔭 I’m currently working on api.2ip.site 
-- 🌱 I’m currently learning pytest
-- 👯 I’m looking to collaborate with other creators and companies
-
 <br/>
 
 Projects:
@@ -75,7 +70,7 @@ Projects:
 [instagram]: https://instagram.com/volodichev
 [vk]: https://vk.com/volodichevcom
 [tg]: https://t.me/volodichev
-[api_docs]: https://i.volodichev.com/api
+[api_docs]: /api
 [ru_page]: /index_ru
 
 [github_perenos_bot]: http://github.com/volodichev
@@ -86,6 +81,6 @@ Projects:
 [proxy4parsing]: https://t.me/proxy4parsing 
 [proxy-list]: https://github.com/Volodichev/proxy-list
 [sort_files]: https://github.com/Volodichev/sort_files
-
+[fastapi-demo]: https://github.com/Volodichev/fastapi
 
 
