@@ -10,11 +10,13 @@ _задача: Написать бота для канала с актуальн
 
 [<img align="center" alt="Курс валют" width="700px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/projects/kurscb/chat.png" />][kurscb_url]
 
-Использовал:
+##### Использовал:
 
-API, aiogram, aiohttp,
+API, aiogram, aiohttp
 
-Источники:
+<br>
+
+##### Источники данных:
 
 - [Центральный банк РФ][cb_url]
 - [Московская биржа][moex_url]
@@ -23,10 +25,15 @@ API, aiogram, aiohttp,
 
 
 
+<br>
 
 
-В планах:
-- _добавить курсы популярных банков_
+##### В планах:
+- _добавить сводку курсов обмена популярных банков_
+- _добавить сводку курсов популярных криптовалют_
+
+
+
 ---
 2022
 
