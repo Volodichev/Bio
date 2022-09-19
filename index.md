@@ -87,9 +87,9 @@ in social networks
 
 <br/>
 ---
-<div id="header" align="center">
-  <a href="https://volodichev.com">
-  <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" title="volodichev.com" alt="volodichev.com" width="50" height="50"/></a>
+<div id="header" align="center">  
+  <a href="https://github.com/volodichev">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="volodichev | github" alt="volodichev | github" width="50" height="50"/></a>
   <a href="https://blog.volodichev.com">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" title="bog.volodichev.com" alt="bog.volodichev.com" width="50" height="50"/></a>
   <a href="https://linkedin.com/in/volodichev">
