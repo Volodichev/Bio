@@ -1,67 +1,104 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/media/favicon.ico">
 
-# Hi, my name is Alexander Volodichev 👋 [<img align="right" alt="ru" width="26px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/russia.png" />][ru_page]
+# Hi, my name is _Alexander Volodichev_ 👋 
 
-[<img align="center" alt="volodichev.com" width="400px" src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" />][website]
+
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/Volodichev/volodichev.github.io/master/sticker.png" width="300"/>
+</div>
 
 # I'm python developer <img alt="python developer" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" /> 
 
-
-<br/>
-<br/>
-
-Projects:
 ---
 
-- 💰 [t.me/kurscb][kurscb] — exchange rates channel.
 
-- 💬 [t.me/vsspambot][vsspambot] — bot moderator for chats
 
-- 📞 [t.me/neberitrubkubot][neberitrubkubot] — bot phone checker
+<div id="header" align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="Django" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" title="Fastapi" alt="Fastapi" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/aio-libs/aiohttp/master/docs/aiohttp-plain.svg" title="Aiohttp" alt="Aiohttp" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/aiogram/aiogram/dev-2.x/docs/source/static/logo.png" title="Aiogram" alt="Aiogram" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SqlAlchemy" alt="SqlAlchemy" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nginx.svg" title="Nginx" alt="Nginx" width="35" height="35"/>
+</div>
 
-- 📷 [t.me/perenos_bot][perenos_bot] — bot with instagram text indents 
-[<img alt="perenos_bot" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github_perenos_bot]
+<br/>
+<br/>
 
-- 📔 [t.me/textorobot][textorobot] — bot synonims(stoped)
+My projects:
+---
 
-- 💻 [t.me/proxy4parsing][proxy4parsing] — free proxy channels. Every 20 min
+- <a href="https://github.com/Volodichev/nomer.org">**Nomer.org**</a> _(FastApi)_ — antispam site with phones
+<br/>
+<br/>
 
-- 💻 [github.com//proxy-list][proxy-list] — proxy github repo
+- <a href="https://github.com/Volodichev/SMMPanel">**SMMpanel**</a>_(Django)_ — collecting & scheduled publishing
+in social networks
+<br/> 
+<br/>
 
-- 📷 [github.com//sort_files][sort_files] — photo and video sort by exif. Solve ios+PC bug
+- <a href="https://github.com/Volodichev/vsSPAMbot">**vsSPAMbot**</a> _(Aiogram)_ — antispam moderator bot for telegram
+<br/>
+<br/>
 
-- ⚙ api.2ip.site — [API servises (fresh proxies, phone checker, etc.)][api_docs]
+- <a href="https://github.com/Volodichev/neberitrubkubot">**NeberiTrubkuBot**</a> _(Django)_ — telegram bot checks phone numbers on neberitrubku.ru
+<br/>
+<br/>
+
+- <a href="https://volodichev.com/autoposting">**AUTOPOSTING**</a> to telegram channels
+<br/>
+<br/>
+
+- <a href="https://github.com/Volodichev/instagram_indents">**INSTAGRAM_INDENTS**</a> — telegram bot
+<br/>
+<br/>
+
+- <a href="https://github.com/Volodichev/free_proxy">**FREE_PROXY**</a> — free proxy broker
+<br/>
+<br/>
+
+- <a href="https://github.com/Volodichev/sort_files">**SORT_FILES**</a> — Sort and organize your files (photos, videos and other media from iphone, ipad, camera etc.) by date
+<br/>
+<br/>
+
+- **[Textorobot][textorobot]** — bot synonims(stoped)
+<br/>
+<br/>
+
+- **[API][api_docs]** — API servises (fresh proxies, phone checker, etc.)
+
+<br/>
 
 ---
 
-**Freelancer**<br/>
-<small>_volodichev.com 2017 — Present_</small><br/>
-
-**Developer**<br/>
-<small>_1c MKSCOM, Msk 2015 — 2017_</small><br/>
-
-**Developer**<br/>
-<small>_1c Orticon, Msk 2013 — 2015_</small><br/>
-
-**Developer**<br/>
-<small>_1c Intaris, Msk 2013 — 2013_</small><br/>
-
-**Content Manager**<br/>
-<small>_Baykal-2, Msk 2010 — 2013_</small><br/>
+- **Python Backend Developer** <small>_2017 — Present_</small><br/>
+<br/>
+- **Developer 1c** <small>_2013 — 2017_</small><br/>
+<br/>
+- **Content Manager** <small>_2010 — 2013_</small><br/>
 <br/>
 
 
 <br/>
 ---
-[<img align="left" alt="volodichev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bog.volodichev.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][blog]
-[<img align="left" alt="volodichev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="volodichev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="volodichev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="volodichev | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="volodichev | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="volodichev | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
-
+<div id="header" align="center">
+  <a href="https://volodichev.com">
+  <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" title="volodichev.com" alt="volodichev.com" width="50" height="50"/></a>
+  <a href="https://blog.volodichev.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" title="bog.volodichev.com" alt="bog.volodichev.com" width="50" height="50"/></a>
+  <a href="https://linkedin.com/in/volodichev">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="volodichev | LinkedIn" alt="volodichev | LinkedIn" width="50" height="50"/></a>&nbsp;
+  <a href="https://vk.com/volodichevcom">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" title="volodichev | vk" alt="volodichev | vk" width="50" height="50"/></a>
+  <a href="https://t.me/volodichev">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" title="volodichev | telegram" alt="volodichev | telegram" width="50" height="50"/></a>
+</div>
 <br/>
 <br/>
 <br/>
